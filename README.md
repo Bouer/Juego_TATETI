@@ -1,9 +1,9 @@
 # Juego_TATETI
-##Proyecto Final del curso de EDUTEK, SAAF y NETACAD de CISTO.
+## Proyecto Final del curso de EDUTEK, SAAF y NETACAD de CISTO.
 
-El proyecto se trata de un juego de tateti, realizado en python.
+El proyecto se trata de un juego de ta-te-ti, realizado en python. Implementando todos los conocimientos adquiridos en el curso
 
-###Condiciones y reglas del juego:
+### Condiciones y reglas del juego:
 
 * La maquina (por ejemplo, el programa) jugará utilizando las 'X' s;
 * El usuario (por ejemplo, tu) jugarás utilizando las 'O' s;
