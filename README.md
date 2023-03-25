@@ -21,7 +21,7 @@ El proyecto se trata de un juego de ta-te-ti, realizado en python. Implementando
   no se debe implementar algún tipo de inteligencia artificial - la maquina elegirá
   un cuadro de manera aleatoria, eso es suficiente para este juego.
 
-
+```
 +-------+-------+-------+
 |       |       |       |
 |   1   |   2   |   3   |
@@ -35,3 +35,4 @@ El proyecto se trata de un juego de ta-te-ti, realizado en python. Implementando
 |   7   |   8   |   9   |
 |       |       |       |
 +-------+-------+-------+
+```
