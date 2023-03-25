@@ -20,3 +20,18 @@ El proyecto se trata de un juego de ta-te-ti, realizado en python. Implementando
 * La maquina responde con su movimiento y se verifica el estado del juego;
   no se debe implementar algún tipo de inteligencia artificial - la maquina elegirá
   un cuadro de manera aleatoria, eso es suficiente para este juego.
+
+
++-------+-------+-------+
+|       |       |       |
+|   1   |   2   |   3   |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|   4   |   5   |   6   |
+|       |       |       |
++-------+-------+-------+
+|       |       |       |
+|   7   |   8   |   9   |
+|       |       |       |
++-------+-------+-------+
